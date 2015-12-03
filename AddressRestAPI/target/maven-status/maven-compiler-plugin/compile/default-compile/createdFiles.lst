@@ -1,0 +1,5 @@
+addressrestapi\dao\EnderecoCompletoDAO.class
+addressrestapi\model\EnderecoCompleto.class
+addressrestapi\controller\MainController.class
+addressrestapi\model\ResponseObject.class
+addressrestapi\service\EnderecoService.class
